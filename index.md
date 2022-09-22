@@ -13,7 +13,7 @@ humandate: "17 October 2022 to 19 October 2022"    # human-readable dates for th
 humantime: "11:00 am - 14:00 pm CAT"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: "2022-10-17"      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: "2022-10-19"        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Gerrit Botha, Kauthar Omar, Mamana Mbiyavanga, Ruth Nanjala, Verena Ras, Ziyaad Parker, Nihad Alsayed"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Gerrit Botha, Kauthar Omar, Mamana Mbiyavanga, Ruth Nanjala, Verena Ras, Ziyaad Parker, Nihad Alsayed, Liberata Mwita"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Tshinakaho Malesa"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["NGS_Academy_info@h3abionet.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2022-10-17-online-NGS-academy # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
